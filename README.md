@@ -6,10 +6,14 @@ To generate a simple hash of a given message using a custom hash function.
 
 ## ALGORITHM:
 
-1.Input a message from the user.
+1. Input a message from the user.
+
 2. Use a basic custom hash function that applies simple operations like XOR and addition on the characters of the message.
+   
 3. Convert the resulting hash into a hexadecimal format.
+
 4. Display the computed hash to the user.
+
 5. Optionally verify the hash by recomputing it and comparing it with a received hash.
 
 ## PROGRAM:
